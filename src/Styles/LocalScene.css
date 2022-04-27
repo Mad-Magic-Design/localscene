@@ -1,0 +1,28 @@
+.Calender {
+    height: 90%;
+    width: 90%;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.Card {
+    height: 400px;
+    width: 200px;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    background-color: black;
+    border-radius: 20px;
+    margin: 30px;
+}
+
+.EventImage {
+    height: 200px;
+}
+
+.EventTitle {
+    text-align: center;
+
+}
